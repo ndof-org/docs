@@ -17,15 +17,15 @@ Our open-source library is accessible and user-friendly, providing a transformat
 
 Newline Delimited Objects Format (NDOF) has revolutionized the way data streaming is handled, allowing seamless transition and efficiency in dealing with JSON, XML, and other newline delimited objects. From JSON to XML, data-streaming has seen a transformation. In this article, we dive into NDOF's plan of expansion and its diverse use cases, focusing on its preparation for JavaScript, NodeJS, PHP, Bash examples, and SDK for different operating systems.
 
-## Expanding Horizons: NDOF's Progression
+### Expanding Horizons: NDOF's Progression
 Over the years, an increasing number of organizations have recognized the value in our innovative and efficient approach to data-streaming. Through this wave of acceptance and utilization, NDOF is focusing on expanding its technology to involve numerous programming languages. The goal is to provide accessible and user-friendly examples for JavaScript, NodeJS, PHP, and Bash, among others, as well as designing and delivering software development kits (SDK) for any operating system.
 
 This expansion will open doors to extensive adoption across the tech community, making data streaming simpler and faster, thereby increasing efficiency in operations. 
 
-## Modularized Local Applications: The Future of Data Streaming
+### Modularized Local Applications: The Future of Data Streaming
 Organizations are increasingly seeking ways to manage vast amounts of data effectively. The NDOF data file format provides the ideal solution by enabling modularized local applications. This format offers a versatile method of storing various data types within a single file while maintaining efficiency in reading, writing, and searching of these formats.
 
-## Empowering Elastic Search: A Use Case in Data Management
+### Empowering Elastic Search: A Use Case in Data Management
 One interesting use case of the NDOF file format is its integration with Elasticsearch, a widely used distributed, open-source search, and analytics engine. Elasticsearch is renowned for its speed and scalability. When combined with the efficiency of NDOF in handling newline delimited objects, it amplifies its capabilities to handle and analyze large volumes of data in near real-time. 
 
 Public services can benefit from this integration. For example, government agencies that handle massive amounts of public data can use Elasticsearch with NDOF to instantly search and analyze data, thus providing more efficient public services.
