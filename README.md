@@ -1,5 +1,11 @@
 # docs - docs.ndof.org
 
+## docs:
+
++ [ndgeojson](https://stevage.github.io/ndgeojson/)
++ [JSON Lines Examples](https://jsonlines.org/examples/)
++ [MIME types (IANA media types) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+
 ## Summary:
 NDOF (Newline Delimited Objects Format) is an innovative solution that supports the seamless streaming of JSON, XML, and other newline delimited objects. This allows for simpler and more efficient writing, reading, and searching of different data formats in each line without the need for parsing and decoding the entire file or object. Our open-source library makes handling streaming data easier and faster, transforming the way you manage it.
 
